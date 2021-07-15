@@ -1,0 +1,4 @@
+[flake8]
+select = C,E,F,W, S
+max-complexity = 10
+ignore = E501
